@@ -1,0 +1,6 @@
+{
+  "name": "RS Mitra Mulia Husada",
+  "description": "Website Resmi Rumah Sakit Mitra Mulia Husada - Layanan UGD 24 Jam, Poliklinik, Jadwal Dokter, Booking Online & Navigasi Lokasi",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
